@@ -1,0 +1,61 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     848 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.332 seconds
+Platform assembly: C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mbazan\Desktop\Cosas Mias\Rocket Ultimo\Rocket\Rocket\Rocket_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.118924 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.395988 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 0.375462 ms (FindLiveObjects: 0.070131 ms CreateObjectMapping: 0.021809 ms MarkObjects: 0.271547 ms  DeleteObjects: 0.009835 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.973422 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 714.
+Total: 0.460561 ms (FindLiveObjects: 0.099638 ms CreateObjectMapping: 0.033355 ms MarkObjects: 0.302337 ms  DeleteObjects: 0.023947 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at FirePortal.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.829416 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.975432 ms (FindLiveObjects: 0.091513 ms CreateObjectMapping: 0.094079 ms MarkObjects: 0.752207 ms  DeleteObjects: 0.035921 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at FirePortal.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2f14 -> priority: 1 
