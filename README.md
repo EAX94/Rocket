@@ -1,5 +1,4 @@
 # Rocket
-A video game about Portal in 2D, made in Unity.
+A simple video game I did to work with portals in a 2D environment, made in Unity.
 
-![Test](https://i.imgur.com/o3TwPQC.gif)
 <img src='./misc/output.gif'>
