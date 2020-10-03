@@ -1,1 +1,2 @@
 *.aspx -linguist-vendored
+*.aspx linguist-language=C#
